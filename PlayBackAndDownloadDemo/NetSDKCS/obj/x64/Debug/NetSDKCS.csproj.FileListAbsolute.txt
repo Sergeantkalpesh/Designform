@@ -1,0 +1,6 @@
+C:\Users\Interns\Downloads\General_NetSDK_Eng_CSharp_Win64_IS_V3.060.0000002.0.R.251020 (1)\Demos\PlayBackAndDownloadDemo\NetSDKCS\bin\x64\Debug\NetSDKCS.dll
+C:\Users\Interns\Downloads\General_NetSDK_Eng_CSharp_Win64_IS_V3.060.0000002.0.R.251020 (1)\Demos\PlayBackAndDownloadDemo\NetSDKCS\bin\x64\Debug\NetSDKCS.pdb
+C:\Users\Interns\Downloads\General_NetSDK_Eng_CSharp_Win64_IS_V3.060.0000002.0.R.251020 (1)\Demos\PlayBackAndDownloadDemo\NetSDKCS\obj\x64\Debug\NetSDKCS.csproj.AssemblyReference.cache
+C:\Users\Interns\Downloads\General_NetSDK_Eng_CSharp_Win64_IS_V3.060.0000002.0.R.251020 (1)\Demos\PlayBackAndDownloadDemo\NetSDKCS\obj\x64\Debug\NetSDKCS.csproj.CoreCompileInputs.cache
+C:\Users\Interns\Downloads\General_NetSDK_Eng_CSharp_Win64_IS_V3.060.0000002.0.R.251020 (1)\Demos\PlayBackAndDownloadDemo\NetSDKCS\obj\x64\Debug\NetSDKCS.dll
+C:\Users\Interns\Downloads\General_NetSDK_Eng_CSharp_Win64_IS_V3.060.0000002.0.R.251020 (1)\Demos\PlayBackAndDownloadDemo\NetSDKCS\obj\x64\Debug\NetSDKCS.pdb

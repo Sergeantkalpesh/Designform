@@ -1,0 +1,13 @@
+C:\Users\Interns\Downloads\General_NetSDK_Eng_CSharp_Win64_IS_V3.060.0000002.0.R.251020 (1)\Demos\PlayBackAndDownloadDemo\PlayBackAndDownloadDemo\bin\x64Debug\NetSDKCSControl.dll
+C:\Users\Interns\Downloads\General_NetSDK_Eng_CSharp_Win64_IS_V3.060.0000002.0.R.251020 (1)\Demos\PlayBackAndDownloadDemo\PlayBackAndDownloadDemo\bin\x64Debug\PlayBackAndDownloadDemo.exe.config
+C:\Users\Interns\Downloads\General_NetSDK_Eng_CSharp_Win64_IS_V3.060.0000002.0.R.251020 (1)\Demos\PlayBackAndDownloadDemo\PlayBackAndDownloadDemo\bin\x64Debug\PlayBackAndDownloadDemo.exe
+C:\Users\Interns\Downloads\General_NetSDK_Eng_CSharp_Win64_IS_V3.060.0000002.0.R.251020 (1)\Demos\PlayBackAndDownloadDemo\PlayBackAndDownloadDemo\bin\x64Debug\PlayBackAndDownloadDemo.pdb
+C:\Users\Interns\Downloads\General_NetSDK_Eng_CSharp_Win64_IS_V3.060.0000002.0.R.251020 (1)\Demos\PlayBackAndDownloadDemo\PlayBackAndDownloadDemo\bin\x64Debug\NetSDKCS.dll
+C:\Users\Interns\Downloads\General_NetSDK_Eng_CSharp_Win64_IS_V3.060.0000002.0.R.251020 (1)\Demos\PlayBackAndDownloadDemo\PlayBackAndDownloadDemo\bin\x64Debug\NetSDKCS.pdb
+C:\Users\Interns\Downloads\General_NetSDK_Eng_CSharp_Win64_IS_V3.060.0000002.0.R.251020 (1)\Demos\PlayBackAndDownloadDemo\PlayBackAndDownloadDemo\obj\x64\Debug\PlayBackAndDownloadDemo.csproj.AssemblyReference.cache
+C:\Users\Interns\Downloads\General_NetSDK_Eng_CSharp_Win64_IS_V3.060.0000002.0.R.251020 (1)\Demos\PlayBackAndDownloadDemo\PlayBackAndDownloadDemo\obj\x64\Debug\PlayBackAndDownloadDemo.PlayBackAndDownLoadDemo.resources
+C:\Users\Interns\Downloads\General_NetSDK_Eng_CSharp_Win64_IS_V3.060.0000002.0.R.251020 (1)\Demos\PlayBackAndDownloadDemo\PlayBackAndDownloadDemo\obj\x64\Debug\PlayBackAndDownloadDemo.csproj.GenerateResource.cache
+C:\Users\Interns\Downloads\General_NetSDK_Eng_CSharp_Win64_IS_V3.060.0000002.0.R.251020 (1)\Demos\PlayBackAndDownloadDemo\PlayBackAndDownloadDemo\obj\x64\Debug\PlayBackAndDownloadDemo.csproj.CoreCompileInputs.cache
+C:\Users\Interns\Downloads\General_NetSDK_Eng_CSharp_Win64_IS_V3.060.0000002.0.R.251020 (1)\Demos\PlayBackAndDownloadDemo\PlayBackAndDownloadDemo\obj\x64\Debug\PlayBack.52DD4F2E.Up2Date
+C:\Users\Interns\Downloads\General_NetSDK_Eng_CSharp_Win64_IS_V3.060.0000002.0.R.251020 (1)\Demos\PlayBackAndDownloadDemo\PlayBackAndDownloadDemo\obj\x64\Debug\PlayBackAndDownloadDemo.exe
+C:\Users\Interns\Downloads\General_NetSDK_Eng_CSharp_Win64_IS_V3.060.0000002.0.R.251020 (1)\Demos\PlayBackAndDownloadDemo\PlayBackAndDownloadDemo\obj\x64\Debug\PlayBackAndDownloadDemo.pdb
